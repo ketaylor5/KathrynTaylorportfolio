@@ -1,4 +1,5 @@
 # CS105/6/7/8 Portfolio
+![Profile Pic.jpg](Pictures/Profile%20Pic.jpg)
 # Kathryn Taylor
 ***
 ## Portfolio
@@ -11,7 +12,7 @@ My diverse skill set, commitment to learning, and passion for analytics exemplif
 
 ### Education 
 - High School Graduate
-- 1 year of Undergraduate University
+- 1 year of Undergraduate University at Loyola of Maryland
 
 ***
 ### Projects
