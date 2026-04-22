@@ -8,7 +8,6 @@ Hello! I am an experienced computer science professional with one year of proven
 With skills in filing, typing, communication, and coding I am able to expertly commit to the corporate career, and achieve success in filing paperwork. I am adept at using Excel, Access, and Github. 
 My diverse skill set, commitment to learning, and passion for analytics exemplify me as a valuable asset.  In my spare time, I like to do community service for the community and  sing karaoke on the weekends.
 
-
 ### Education 
 - High School Graduate
 - 1 year of Undergraduate University at Loyola of Maryland
