@@ -1,5 +1,5 @@
 title: Kathryn Taylor
-logo: <img src="Pictures/Profile Pic.jpg" width="200" >
+logo: <img="Profile Pic.jpg">
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-midnight
