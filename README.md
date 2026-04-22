@@ -22,10 +22,10 @@ My diverse skill set, commitment to learning, and passion for analytics exemplif
 ***
 #### Project 2 [Course Grade Evaluator](https://github.com/LoyolaUnivMD/sp26-cs105-python-week-3-ketaylor5.git)
  - Decision Structures & Boolean Logic
- - [insert project 2 screenshot here]
- - Project 2 Report
+ - ![Screenshot Pycharm .png](Pictures/Screenshot%20Pycharm%20.png)
+ - The problem I had to solve for this assessment was to create a course grade evaluator on Pycharm. If I want to code in the future, it is vital to learn thing like this to progress. I used Github and Pycharm in order to complete this assessment. I faced several challenges as I found it harder to learn and understand initially, however I got the hang of it and completed the project ahead of schedule. I worked with a peer for constructive criticisms, and they helped ensure my project was up to speed. 
 ***
-#### Project 3 Title
- - Project 3 Summary
- - [insert project 3 screenshot here]
- - Project 3 Report
+#### Project 3 [Microsoft Access Work and PowerPoint](https://1drv.ms/p/c/31a6e8d6adc6099b/IQDaW0Mi3BL7Q5jU8aEkuLJ8AQ_jb3DYetTh0OdXOTIiImk?e=xskfRk)
+ -  Using Queries to Make Decisions
+ - ![Screenshot Access.png](Pictures/Screenshot%20Access.png)
+ - This assessment was a challenge to learn Microsoft access in order to understand and use technology for connected analytics like graphs and tables. I needed to know this in order to be able to complete tasks like this in the real world, especially if I get a computer science/data job. I used Microsoft access in order to complete this assessment and I faced the challenges of getting connections to work and tables to have the important data displayed. I worked alone for this project, however that did not hold me back as I successfully completed the project before the due date.
