@@ -19,6 +19,7 @@ My diverse skill set, commitment to learning, and passion for analytics exemplif
  - ![Screenshot 2026-04-20 133707.png](Pictures/Screenshot%202026-04-20%20133707.png)
  - The original problem for this assessment was to combine what I had learned over a period of time in my computer science class and be able to explain and reiterate what I had learned. I used PowerPoint, Microsoft calendar, excel, email, and Screenpal. I faced the difficulty of not only intaking information but being able to teach it back to anyone who asked. This helped me to completely learn the information from scratch and become more adept at doing the practices alongside. I worked with my peers and professor to ensure my work was adequate if not perfect. I was able to complete my assignment successfully with full credit awarded.
 ***
+
 #### Project 2 [Course Grade Evaluator](https://github.com/LoyolaUnivMD/sp26-cs105-python-week-3-ketaylor5.git)
  - Decision Structures & Boolean Logic
  - ![Screenshot Pycharm .png](Pictures/Screenshot%20Pycharm%20.png)
